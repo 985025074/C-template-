@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/root/homework_C/rubish_exp/build",
+  "command": "/usr/bin/g++  -I/root/homework_C/rubish_exp/include -g -std=gnu++20 -o CMakeFiles/output.dir/src/main.cpp.o -c /root/homework_C/rubish_exp/src/main.cpp",
+  "file": "/root/homework_C/rubish_exp/src/main.cpp",
+  "output": "CMakeFiles/output.dir/src/main.cpp.o"
+}
+]

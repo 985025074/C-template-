@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/rubish_exp.dir/src/main.cpp.o -o rubish_exp

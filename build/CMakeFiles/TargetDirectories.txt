@@ -1,0 +1,5 @@
+/root/homework_C/rubish_exp/build/CMakeFiles/output.dir
+/root/homework_C/rubish_exp/build/CMakeFiles/edit_cache.dir
+/root/homework_C/rubish_exp/build/CMakeFiles/rebuild_cache.dir
+/root/homework_C/rubish_exp/build/sublib/CMakeFiles/edit_cache.dir
+/root/homework_C/rubish_exp/build/sublib/CMakeFiles/rebuild_cache.dir
